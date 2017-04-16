@@ -1,0 +1,23 @@
+{
+  "name": "alexa-consilient",
+  "version": "1.0.0",
+  "description": "An Amazon Alexa skill application for sending search requests against the Consilient.ai API",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "html-entities": "^1.2.0",
+    "cheerio": "^0.22.0",
+    "cheerio-tableparser": "^1.0.1",
+    "node-tldr": "^0.4.14",
+    "request-promise": "^4.1.1",
+    "request": "^2.79.0",
+    "striptags": "^2.1.1",
+    "x-ray": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jeremy T Edwards",
+  "license": "ISC"
+}
