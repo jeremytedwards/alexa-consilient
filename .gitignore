@@ -60,3 +60,7 @@ typings/
 .env
 /alexa-skills-kit-sdk-for-nodejs/
 /alexa-google-search/
+/Archive.zip
+
+# Idea
+.idea
